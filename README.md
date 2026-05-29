@@ -19,6 +19,12 @@ Analyzed global salary trends using Python and SQL to identify compensation patt
 ### Sports Injury Risk Analysis
 Performed statistical analysis on athlete injury data to identify risk factors and trends.
 
+## Bike Sales Analysis
+Analyzed bike sales trends using Python and SQL to identify sales patterns across location and seasonal changes.
+
+🔗 [View Project](https://github.com/codjones715/Bike-Sales-Analysis)
+
+
 ## Technical Skills
 - Python
 - SQL
